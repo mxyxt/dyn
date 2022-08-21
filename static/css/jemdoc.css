@@ -15,7 +15,12 @@ table#tlayout {
 html {
   background-color: #eeeeee; 
 }
-
+#phone{
+	font-family: "STHeiti";
+}
+#2019{
+	font-family: "SimHei";
+}
 body { 
   font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
   /*font-size: 16px;
@@ -58,7 +63,7 @@ body {
 }
 
 #layout-menu td {
-	background: #f4f4f4;
+	background: #4F94CD;
     vertical-align: top;
 }
 
@@ -155,7 +160,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #4F94CD;
 	margin-top: 0.7em;
 	margin-bottom: 0.5em;
 	padding-bottom: 0.2em;
@@ -167,11 +172,12 @@ h1, h2, h3 {
 h1 {
 	font-size: 165%;
 	padding-bottom: 0.3em;
+
 }
 
 h2 {
 	padding-top: 0.8em;
-	font-size: 125%;
+	font-size: 145%;
 }
 
 h2 + h3 {
