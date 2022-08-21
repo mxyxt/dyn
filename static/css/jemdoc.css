@@ -252,6 +252,7 @@ p + ul, p + ol {
 
 li {
 	margin-top:0.9em;
+	padding-left:25px; text-indent:-25px;
 }
 
 ol {
